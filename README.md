@@ -14,5 +14,5 @@ To build:
    Buld instruction:
    https://docs.vtk.org/en/latest/advanced/build_wasm_emscripten.html
 
-4. Build freeview_wasm
+4. Build freeview_wasm: 
    Open Qt Creater IDE, load the project by selecting CMakeLists.txt. Select Qt 6.6.3 wasm kit. In CMake configuration tab, set VTK_DIR to your VTK installation path. Then build and run.
